@@ -10,12 +10,12 @@
             <sorted>false</sorted>
             <value>
                 <fullName>Bronze</fullName>
-                <default>true</default>
+                <default>false</default>
                 <label>Bronze</label>
             </value>
             <value>
                 <fullName>Silver</fullName>
-                <default>false</default>
+                <default>true</default>
                 <label>Silver</label>
             </value>
             <value>
